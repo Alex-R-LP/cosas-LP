@@ -1,0 +1,660 @@
+[
+    {
+        "latitude": "39.471441656",
+        "longitude": "-0.3791106",
+        "Cafetería": "Aurora. Specialty Coffee",
+        "Calle": "C/ d'Escolano, 25",
+        "Descripción de Sara": "Espacio tranquilo para trabajar y pet friendly"
+    },
+    {
+        "latitude": "39.496856437",
+        "longitude": "-0.4704828",
+        "Cafetería": "Barista Café",
+        "Calle": "C/ Domenyo, 4, a",
+        "Descripción de Sara": "\"Café 100% arábica"
+    },
+    {
+        "latitude": "39.472500001",
+        "longitude": "-0.3262450",
+        "Cafetería": "Bikini Cabanyal",
+        "Calle": "C/ de les Drassanes, 52, Poblats Marítims, 46011",
+        "Descripción de Sara": "\"En pleno corazón del Cabanyal: café de especialidad"
+    },
+    {
+        "latitude": "39.462053885",
+        "longitude": "-0.3721754",
+        "Cafetería": "Blackbird Café",
+        "Calle": "C/ Reina Na María 7",
+        "Descripción de Sara": "\"Todo hecho en casa"
+    },
+    {
+        "latitude": "39.475968188",
+        "longitude": "-0.3786985",
+        "Cafetería": "Blackbird Café – Little Blackbird",
+        "Calle": "C/ Danzas 2",
+        "Descripción de Sara": "Con el espíritu de 'Blackbird' de The Beatles como inspiración"
+    },
+    {
+        "latitude": "39.462047145",
+        "longitude": "-0.3758182",
+        "Cafetería": "Bluebell Coffee Roasters",
+        "Calle": "C/ Buenos Aires 3",
+        "Descripción de Sara": "\"Compromiso con el origen"
+    },
+    {
+        "latitude": "39.460194706",
+        "longitude": "-0.3492068",
+        "Cafetería": "Borja Specialty Coffee",
+        "Calle": "C/ de Vicente Beltrán Grimal, 23",
+        "Descripción de Sara": "\"Un espacio para los más instagramers"
+    },
+    {
+        "latitude": "39.471761446",
+        "longitude": "-0.3592581",
+        "Cafetería": "Boscon Coffee",
+        "Calle": "C/ de Finlàndia, 16, El Pla del Real, 46010",
+        "Descripción de Sara": "Un local donde lo cotidiano se vuelve extraordinario"
+    },
+    {
+        "latitude": "39.475554474",
+        "longitude": "-0.3864237",
+        "Cafetería": "BOTANIC Café-Té",
+        "Calle": "C/ de Quart, 91",
+        "Descripción de Sara": "Local de especialidad con tuestes artesanales"
+    },
+    {
+        "latitude": "39.469108283",
+        "longitude": "-0.3788545",
+        "Cafetería": "Brewtalist Coffee Hub",
+        "Calle": "C/ de Baldoví, 2",
+        "Descripción de Sara": "Su lema: el sitio si odias lo mediocre y buscas algo más que agua marrón caliente."
+    },
+    {
+        "latitude": "39.469167162",
+        "longitude": "-0.3660728",
+        "Cafetería": "Butter Eatery House",
+        "Calle": "C/ del Gravador Esteve, 33",
+        "Descripción de Sara": "Pastelería sin gluten hecha con ingredientes de calidad"
+    },
+    {
+        "latitude": "39.466888602",
+        "longitude": "-0.3290597",
+        "Cafetería": "Café ArtySana",
+        "Calle": "C/ de La Reina, 56",
+        "Descripción de Sara": "\"Cocina casera veggie"
+    },
+    {
+        "latitude": "39.463045381",
+        "longitude": "-0.3763524",
+        "Cafetería": "Café ArtySana",
+        "Calle": "C/ de Dénia, 49",
+        "Descripción de Sara": "Acerca el arte a todos sus clientes a través de exposiciones itinerantes"
+    },
+    {
+        "latitude": "39.479303307",
+        "longitude": "-0.3525777",
+        "Cafetería": "Café Colomer",
+        "Calle": "Plaza de Fra Lluís Colomer, 7, Bajo B",
+        "Descripción de Sara": "\"Crepería y micro-tostador en Valencia"
+    },
+    {
+        "latitude": "39.469911981",
+        "longitude": "-0.3490410",
+        "Cafetería": "Café Cros",
+        "Calle": "C/ dels Sants Just i Pastor, 58",
+        "Descripción de Sara": "\"Un espacio acogedor para celebraciones"
+    },
+    {
+        "latitude": "39.472336220",
+        "longitude": "-0.3755253",
+        "Cafetería": "Cafeinómanos",
+        "Calle": "C/ de l'Ambaixador Vich, 11, bajo",
+        "Descripción de Sara": "Cafetería de especialidad multi-roaster para llevar"
+    },
+    {
+        "latitude": "39.459173191",
+        "longitude": "-0.3478630",
+        "Cafetería": "Cafetería Guapas",
+        "Calle": "Avenida de Francia, 32",
+        "Descripción de Sara": "\"Desayunos"
+    },
+    {
+        "latitude": "39.470645181",
+        "longitude": "-0.3909875",
+        "Cafetería": "Cafeto y Camellia",
+        "Calle": "C/ de Calixt III, 45, BJ 4",
+        "Descripción de Sara": "\"Una experiencia sensorial"
+    },
+    {
+        "latitude": "39.468145155",
+        "longitude": "-0.3819616",
+        "Cafetería": "Casa Capicúa",
+        "Calle": "C/ Jesús 14",
+        "Descripción de Sara": "\"Local con alma familiar y cocina sin prisas"
+    },
+    {
+        "latitude": "39.461737347",
+        "longitude": "-0.3759879",
+        "Cafetería": "Casa Fran",
+        "Calle": "C/ Puerto Rico 29",
+        "Descripción de Sara": "Un local de take away donde la barra cobra protagonismo"
+    },
+    {
+        "latitude": "39.462094652",
+        "longitude": "-0.3697783",
+        "Cafetería": "Casa Raíz",
+        "Calle": "C/ Pintor Salvador Abril 34",
+        "Descripción de Sara": "Un refugio único que combina el arte del café de especialidad con un ambiente acogedor y cultural"
+    },
+    {
+        "latitude": "39.466566905",
+        "longitude": "-0.3659002",
+        "Cafetería": "CATÉ Café y té",
+        "Calle": "C/ de Ciscar, 15",
+        "Descripción de Sara": "\"Calidad"
+    },
+    {
+        "latitude": "39.470910596",
+        "longitude": "-0.3755549",
+        "Cafetería": "Cherry Blossom",
+        "Calle": "C/ de Moratín, 15",
+        "Descripción de Sara": "Un espacio en pleno centro de Valencia que celebra la primavera y la naturaleza"
+    },
+    {
+        "latitude": "39.467356852",
+        "longitude": "-0.3860238",
+        "Cafetería": "CLEM Café",
+        "Calle": "C/ de Conca, 40, Extramurs, 46007",
+        "Descripción de Sara": "\"Destaca por su propuesta de comida vegetariana"
+    },
+    {
+        "latitude": "39.475162948",
+        "longitude": "-0.3776858",
+        "Cafetería": "Coffee & Bikes",
+        "Calle": "C. de la Puríssima, 1",
+        "Descripción de Sara": "Un punto de encuentro donde el ciclismo y la cultura del café se unen"
+    },
+    {
+        "latitude": "39.465051073",
+        "longitude": "-0.3673215",
+        "Cafetería": "COPPER (Specialty coffee & brunch)",
+        "Calle": "C/ de Borriana, 12",
+        "Descripción de Sara": "Un espacio pet friendly donde tu mascota es siempre bienvenida"
+    },
+    {
+        "latitude": "39.469406011",
+        "longitude": "-0.3781610",
+        "Cafetería": "Cult Café",
+        "Calle": "C/ de l'Arquebisbe Mayoral, 7, Bajo",
+        "Descripción de Sara": "\"Tostaduría y cafetería centrada en cafés de origen"
+    },
+    {
+        "latitude": "39.466549855",
+        "longitude": "-0.3698363",
+        "Cafetería": "DOCTA Coffee",
+        "Calle": "Gran Via del Marqués del Túria, 34",
+        "Descripción de Sara": "\"Especialidad"
+    },
+    {
+        "latitude": "39.467347152",
+        "longitude": "-0.3301585",
+        "Cafetería": "Doux-Amer Café",
+        "Calle": "C/ de Just Vilar, 29",
+        "Descripción de Sara": "Una amplia variedad de opciones de brunch creativo y saludable"
+    },
+    {
+        "latitude": "39.470527837",
+        "longitude": "-0.3675986",
+        "Cafetería": "East Crema Coffee",
+        "Calle": "C/ Sorní 19",
+        "Descripción de Sara": "\"Un espacio para desconectar"
+    },
+    {
+        "latitude": "39.469251656",
+        "longitude": "-0.3746687",
+        "Cafetería": "East Crema Coffee",
+        "Calle": "C/ Roger de Lauria",
+        "Descripción de Sara": "Destaca por su trazabilidad y tueste preciso"
+    },
+    {
+        "latitude": "39.465053125",
+        "longitude": "-0.3674913",
+        "Cafetería": "East Crema Coffee",
+        "Calle": "C/ Almirante Cadarso",
+        "Descripción de Sara": "\"Un local en el que el diseño"
+    },
+    {
+        "latitude": "39.478713608",
+        "longitude": "-0.3762573",
+        "Cafetería": "El Coffi del Carmen",
+        "Calle": "C/ de la Creu, 4, bajo derecha",
+        "Descripción de Sara": "\"Ambiente acogedor"
+    },
+    {
+        "latitude": "39.462862607",
+        "longitude": "-0.3711076",
+        "Cafetería": "Elixir Café de Especialidad  Ruzafa",
+        "Calle": "Mercado de Ruzafa Casetas exteriores 112-116, 46006",
+        "Descripción de Sara": "\"Café de especialidad"
+    },
+    {
+        "latitude": "39.476849838",
+        "longitude": "-0.3796048",
+        "Cafetería": "Elixir Café de Especialidad - Barrio del Carmen",
+        "Calle": "C/ dels Cavallers, 45",
+        "Descripción de Sara": "\"Cada sorbo refleja un proceso artesanal"
+    },
+    {
+        "latitude": "39.466712678",
+        "longitude": "-0.3844113",
+        "Cafetería": "Elixir Café de Especialidad Arrancapins",
+        "Calle": "C/ de Sant Francesc de Borja, 4",
+        "Descripción de Sara": "\"Compromiso con la calidad"
+    },
+    {
+        "latitude": "39.473185472",
+        "longitude": "-0.3686685",
+        "Cafetería": "Fav Coffee",
+        "Calle": "Plaza de la Reina",
+        "Descripción de Sara": "\"Una farmacia convertida en cafetería"
+    },
+    {
+        "latitude": "39.527450769",
+        "longitude": "-0.3459122",
+        "Cafetería": "Federal Café",
+        "Calle": "C/ de l'Ambaixador Vich, 15",
+        "Descripción de Sara": "\"Ambiente acogedor y cosmopolita"
+    },
+    {
+        "latitude": "39.462600149",
+        "longitude": "-0.3663429",
+        "Cafetería": "Fika",
+        "Calle": "C/ del Duc de Calàbria, 16",
+        "Descripción de Sara": "Una tradición sueca hecha local"
+    },
+    {
+        "latitude": "39.462650981",
+        "longitude": "-0.3721447",
+        "Cafetería": "Fiveo Coffee",
+        "Calle": "C/ Dr. Serrano 1",
+        "Descripción de Sara": "Un local que rompe con lo tradicional"
+    },
+    {
+        "latitude": "39.463527614",
+        "longitude": "-0.3693982",
+        "Cafetería": "FloRa bake & Espresso",
+        "Calle": "C/ del Dr. Sumsi, 8",
+        "Descripción de Sara": "Aquí los pasteles se disfrutan mejor con el sabor intenso su café."
+    },
+    {
+        "latitude": "39.462814984",
+        "longitude": "-0.3810553",
+        "Cafetería": "Flying Bean Coffee",
+        "Calle": "C/ del Doctor Vila Barberà, 12",
+        "Descripción de Sara": "\"Ganos tostados en el local"
+    },
+    {
+        "latitude": "39.457515208",
+        "longitude": "-0.3878437",
+        "Cafetería": "Foc Coffee",
+        "Calle": "C/ Mateu i Sanç, 25",
+        "Descripción de Sara": "Café de alta calidad a precios razonables"
+    },
+    {
+        "latitude": "39.471744566",
+        "longitude": "-0.3288882",
+        "Cafetería": "FOUR Specialty Coffee & Bistro",
+        "Calle": "C/ d'Espadà, 31",
+        "Descripción de Sara": "\"Opciones vegetarianas y veganas"
+    },
+    {
+        "latitude": "39.477241750",
+        "longitude": "-0.3830260",
+        "Cafetería": "Fran Café",
+        "Calle": "C/ de Puerto Rico, 29, L'Eixample, 46004",
+        "Descripción de Sara": "Un pequeño rincón situado en el barrio de Russafa que invita a entrar y probar su café take away."
+    },
+    {
+        "latitude": "39.462240494",
+        "longitude": "-0.3669821",
+        "Cafetería": "Fumi Specialty Coffee",
+        "Calle": "C/ de Matias Perelló, 37",
+        "Descripción de Sara": "Un espacio donde la pausa del café se convierte en tu ritual diario de autocuidado."
+    },
+    {
+        "latitude": "39.466714519",
+        "longitude": "-0.3541093",
+        "Cafetería": "Gartxi Coffee",
+        "Calle": "Avenida del Port, 65, Bajo Izquierda, Camins al Grau, 46021",
+        "Descripción de Sara": "\"Dispone además de un patio interior"
+    },
+    {
+        "latitude": "39.463571782",
+        "longitude": "-0.3636492",
+        "Cafetería": "Gigi World Coffee Specialty",
+        "Calle": "C/ del Mestre Racional, 3, Carrer Quart, 7, 46005",
+        "Descripción de Sara": "Apuesta por una cuidadosa selección de granos y tostado artesanal"
+    },
+    {
+        "latitude": "39.473142227",
+        "longitude": "-0.3759099",
+        "Cafetería": "Goat Coffee Store",
+        "Calle": "C/ de l'Abadia de Sant Martí, 4",
+        "Descripción de Sara": "Ofrece opciones como el espresso italiano que algunos comparan con el de Roma."
+    },
+    {
+        "latitude": "39.484563647",
+        "longitude": "-0.3708730",
+        "Cafetería": "Henko Specialty Coffee",
+        "Calle": "C/  Almazora, 44, Bajo Izquierda",
+        "Descripción de Sara": "\"Ofrece café de origen"
+    },
+    {
+        "latitude": "39.470854896",
+        "longitude": "-0.3724026",
+        "Cafetería": "I’N Coffee & Tea",
+        "Calle": "C/ del Dr. Romagosa, 5, Ciutat Vella, 46002",
+        "Descripción de Sara": "\"Café de calidad"
+    },
+    {
+        "latitude": "39.470622514",
+        "longitude": "-0.3736901",
+        "Cafetería": "Ikore Kofi – Centro",
+        "Calle": "C/ de Pascual i Genís, 3, Bajo Izquierda",
+        "Descripción de Sara": "\"Una experiencia completa que involucra la calidad"
+    },
+    {
+        "latitude": "39.462538684",
+        "longitude": "-0.3711152",
+        "Cafetería": "Ikore Kofi – Market",
+        "Calle": "Plaza del Baró de Cortés",
+        "Descripción de Sara": "\"Selección de granos"
+    },
+    {
+        "latitude": "39.478969493",
+        "longitude": "-0.3746772",
+        "Cafetería": "Kaffeina Brunch & Specialty",
+        "Calle": "C/ del Mur de Santa Anna, 4",
+        "Descripción de Sara": "Se specializa en brunchs con cafés de especialidad"
+    },
+    {
+        "latitude": "39.464823872",
+        "longitude": "-0.3656650",
+        "Cafetería": "Kaffeina Brunch & Specialty",
+        "Calle": "C/ de la Reina Na Germana, 9, L'Eixample, 46005",
+        "Descripción de Sara": "Buen café en medio del bullicio de la ciudad."
+    },
+    {
+        "latitude": "39.466655259",
+        "longitude": "-0.3658333",
+        "Cafetería": "Kaffetto Coffee Roasters",
+        "Calle": "C/ Císcar 15",
+        "Descripción de Sara": "Ofrece una frescura de tueste reciente"
+    },
+    {
+        "latitude": "39.464993186",
+        "longitude": "-0.3293603",
+        "Cafetería": "Kaide Coffee",
+        "Calle": "C/ de la Reina, 23",
+        "Descripción de Sara": "Se distingue por la creatividad en sus preparaciones"
+    },
+    {
+        "latitude": "39.471662592",
+        "longitude": "-0.3840368",
+        "Cafetería": "Karma Café",
+        "Calle": "Gran Vía de Fernando el Católico, 8",
+        "Descripción de Sara": "Un espacio pensado para la comodidad del cliente y atención a los detalles"
+    },
+    {
+        "latitude": "39.489029151",
+        "longitude": "-0.4005829",
+        "Cafetería": "Kohi Café de Especialidad",
+        "Calle": "C/ de la Safor, 9",
+        "Descripción de Sara": "Calificado con más de 80 puntos por la Specialty Coffee Association (SCA)"
+    },
+    {
+        "latitude": "39.464664643",
+        "longitude": "-0.3752599",
+        "Cafetería": "Kopi Specialty Coffee",
+        "Calle": "Gran Via de les Germanies, 16",
+        "Descripción de Sara": "De la finca a la taza: un recorrido con trazabilidad y respeto por cada etapa del proceso."
+    },
+    {
+        "latitude": "39.475459366",
+        "longitude": "-0.3765412",
+        "Cafetería": "La Droguería | Speciality Coffee",
+        "Calle": "C/ de la Corretgeria, 23",
+        "Descripción de Sara": "Un espacio con decoración cuidada y un café de sabor intenso que marca la diferencia."
+    },
+    {
+        "latitude": "39.472811773",
+        "longitude": "-0.3776153",
+        "Cafetería": "La Guashira Specialty Coffee",
+        "Calle": "C/ Flassaders 8",
+        "Descripción de Sara": "Produce variedades exóticas de café de especialidad en su propia finca de Colombia"
+    },
+    {
+        "latitude": "39.460965270",
+        "longitude": "-0.3707826",
+        "Cafetería": "Let it bloom",
+        "Calle": "C/ de Francesc Sempere, 4, Bj Izq 01",
+        "Descripción de Sara": "\"Calidad"
+    },
+    {
+        "latitude": "39.459488876",
+        "longitude": "-0.3752366",
+        "Cafetería": "Los Picos Café",
+        "Calle": "Plaza Manuel Granero 20",
+        "Descripción de Sara": "Dominan la AeroPress y preparan un sándwich cubano famoso en la ciudad"
+    },
+    {
+        "latitude": "39.482427513",
+        "longitude": "-0.3715992",
+        "Cafetería": "Mayan Coffees",
+        "Calle": "C/  d'Hug de Montcada, 19, La Saïdia, 46010 València, Valencia",
+        "Descripción de Sara": "Uno de los pocos locales que ofrece café infusionado"
+    },
+    {
+        "latitude": "39.475728083",
+        "longitude": "-0.3836370",
+        "Cafetería": "Mayan Coffees",
+        "Calle": "C/ Murillo 54",
+        "Descripción de Sara": "Opciones seleccionadas para resaltar las características únicas de cada grano"
+    },
+    {
+        "latitude": "39.472856227",
+        "longitude": "-0.3486034",
+        "Cafetería": "Maybean Café",
+        "Calle": "C/ del Dr. Manuel Candela, 75",
+        "Descripción de Sara": "\"Ideal para trabajar o disfrutar de un brunch. Ofrece comida saludable"
+    },
+    {
+        "latitude": "39.477571806",
+        "longitude": "-0.3782947",
+        "Cafetería": "Mestizo",
+        "Calle": "C/ del Portal de Valldigna, 9",
+        "Descripción de Sara": "\"Terraza y dos salas"
+    },
+    {
+        "latitude": "39.461585953",
+        "longitude": "-0.3321588",
+        "Cafetería": "MiKENGO",
+        "Calle": "C. del Dr. Josep Juan Dómine, 9, bajo izquierda",
+        "Descripción de Sara": "\"Un nuevo concepto en café y comida. Ofrece café de especialidad"
+    },
+    {
+        "latitude": "39.466238348",
+        "longitude": "-0.3766287",
+        "Cafetería": "Mora caffè",
+        "Calle": "C/ de Castellón, 2",
+        "Descripción de Sara": "Ofrece café de alta calidad con un enfoque en el espresso italiano."
+    },
+    {
+        "latitude": "39.480352167",
+        "longitude": "-0.3633185",
+        "Cafetería": "Navel Brunch and coffee",
+        "Calle": "C/  de Menéndez y Pelayo, 5",
+        "Descripción de Sara": "Parada obligatoria para los amantes del café. Envuélvete en el sabor refinado del verdadero espresso italiano."
+    },
+    {
+        "latitude": "39.535307605",
+        "longitude": "-0.3655442",
+        "Cafetería": "Near Me Specialty Coffee",
+        "Calle": "Plaza del Col·legi del Patriarca, 3",
+        "Descripción de Sara": "¿Alguna vez has visto cómo tu café se enlata en tiempo real?"
+    },
+    {
+        "latitude": "39.474642432",
+        "longitude": "-0.3777290",
+        "Cafetería": "News & Coffee",
+        "Calle": "Plaza Doctor Collado",
+        "Descripción de Sara": "Un espacio que combina la venta de revistas y prensa con la oferta de café de alta calidad"
+    },
+    {
+        "latitude": "39.469565552",
+        "longitude": "-0.3854626",
+        "Cafetería": "Nuwanda Coffee",
+        "Calle": "C/ del Doctor Sanchis Sivera, 8",
+        "Descripción de Sara": "Inspirada en la película \"\"El Club de los Poetas Muertos\"\""
+    },
+    {
+        "latitude": "39.471810658",
+        "longitude": "-0.3843488",
+        "Cafetería": "Pals cafe. Specialty coffee",
+        "Calle": "C/ Mestre Palau, 4",
+        "Descripción de Sara": "Combina la energía de la gran ciudad con la calidez de una comunidad cercana"
+    },
+    {
+        "latitude": "39.467154732",
+        "longitude": "-0.3720907",
+        "Cafetería": "Paper cup specialty coffee",
+        "Calle": "C/ de Ciril Amorós, 30",
+        "Descripción de Sara": "Café de especialidad tostado en casa y propuestas creativas como el horchata latte"
+    },
+    {
+        "latitude": "39.474530898",
+        "longitude": "-0.3887347",
+        "Cafetería": "Paramoka",
+        "Calle": "C/ de Sant Ignasi de Loiola, 4, Extramurs, 46008",
+        "Descripción de Sara": "\"Tuestes diseñados para cada método: moka"
+    },
+    {
+        "latitude": "39.473280381",
+        "longitude": "-0.3713600",
+        "Cafetería": "Pure coffeine",
+        "Calle": "C/ de la Pau, 23",
+        "Descripción de Sara": "\"Modelo Grab&Go"
+    },
+    {
+        "latitude": "39.469518104",
+        "longitude": "-0.3711238",
+        "Cafetería": "Pure Coffeine",
+        "Calle": "Carrer d'Isabel la Catòlica, 2",
+        "Descripción de Sara": "Buscan convertir un ritual diario en algo accesible para todos"
+    },
+    {
+        "latitude": "39.485034497",
+        "longitude": "-0.3708754",
+        "Cafetería": "Puto Café",
+        "Calle": "C/ Senda de l'Aire, 2",
+        "Descripción de Sara": "\"La cafetería más viral de Valencia: si dices esta palabra malsonante"
+    },
+    {
+        "latitude": "39.476245464",
+        "longitude": "-0.3806132",
+        "Cafetería": "Q7th Specialty Coffee",
+        "Calle": "Calle Quart, 7, 46001",
+        "Descripción de Sara": "Cafés de origen diverso y múltiples formas de preparación"
+    },
+    {
+        "latitude": "39.483295676",
+        "longitude": "-0.3548849",
+        "Cafetería": "Raíces Café",
+        "Calle": "Eduardo Boscá 24",
+        "Descripción de Sara": "\"U refugio para los amantes de esta bebida"
+    },
+    {
+        "latitude": "39.473554180",
+        "longitude": "-0.3788365",
+        "Cafetería": "Retrogusto Coffeemates",
+        "Calle": "Mercado Central – Palcos 169-170",
+        "Descripción de Sara": "Ubicado en el corazón del Mercado Central"
+    },
+    {
+        "latitude": "39.485385162",
+        "longitude": "-0.3629500",
+        "Cafetería": "Riot Specialty Coffee",
+        "Calle": "C/ del Doctor Vicent Zaragoza, 15",
+        "Descripción de Sara": "\"Alog más que café"
+    },
+    {
+        "latitude": "39.467968328",
+        "longitude": "-0.3718629",
+        "Cafetería": "Syra Coffee – Cirilo Amorós",
+        "Calle": "C/ de Ciril Amorós, 35, L'Eixample, 46004",
+        "Descripción de Sara": "Café de especialidad con compromiso por la sostenibilidad y el comercio justo"
+    },
+    {
+        "latitude": "39.469856701",
+        "longitude": "-0.3752961",
+        "Cafetería": "Syra Coffee – Roger de Lauria",
+        "Calle": "C/ de Roger de Llòria, 3, Ciutat Vella, 46002",
+        "Descripción de Sara": "Local minimalista que destaca por su compromiso con la sostenibilidad"
+    },
+    {
+        "latitude": "39.478304055",
+        "longitude": "-0.3763261",
+        "Cafetería": "Syra Coffee – Samaniego",
+        "Calle": "C/ de Samaniego, 18, Ciutat Vella, 46003",
+        "Descripción de Sara": "Ofrece todo tipo de variedades del café dependiendo de la temporada"
+    },
+    {
+        "latitude": "39.467835809",
+        "longitude": "-0.3678718",
+        "Cafetería": "Syra Coffee – Turia",
+        "Calle": "Gran Via del Marqués del Túria, 54, L'Eixample, 46005",
+        "Descripción de Sara": "Diseño urbano pensado para el disfrute diario."
+    },
+    {
+        "latitude": "39.464911562",
+        "longitude": "-0.3299188",
+        "Cafetería": "Tallat Specialty Coffee",
+        "Calle": "C/ Barraca 25",
+        "Descripción de Sara": "Se ha consolidado como un punto de encuentro para amantes del café"
+    },
+    {
+        "latitude": "39.473738899",
+        "longitude": "-0.3762943",
+        "Cafetería": "The Coffee",
+        "Calle": "C/ dels Drets, 3",
+        "Descripción de Sara": "Lo mejor del café brasileño junto con la pureza y perfeccionismo japonés."
+    },
+    {
+        "latitude": "39.456013819",
+        "longitude": "-0.3585466",
+        "Cafetería": "Tinobu Healthy food & Coffee",
+        "Calle": "Avenida de l'Institut Obrer de València, 15",
+        "Descripción de Sara": "\"Desayunos sanos tanto dulces como salados"
+    },
+    {
+        "latitude": "39.460642888",
+        "longitude": "-0.3953260",
+        "Cafetería": "Tostarte Specialty Coffee",
+        "Calle": "C/ de la Vall d'Uixó, 3",
+        "Descripción de Sara": "\"Un espacio acogedor para trabajar"
+    },
+    {
+        "latitude": "39.474289342",
+        "longitude": "-0.3770898",
+        "Cafetería": "UNCAFE",
+        "Calle": "C/ de Martín Mengod, 6, Ciutat Vella, 46001",
+        "Descripción de Sara": "\"Conocido por la pasión de su barista"
+    },
+    {
+        "latitude": "39.476146494",
+        "longitude": "-0.3766029",
+        "Cafetería": "Vuka (Coffee & Brunch)",
+        "Calle": "C/ dels Juristes, 12, Ciutat Vella, 46001",
+        "Descripción de Sara": "Café de especialidad y repostería artesanal cerca de la Plaza de la Virgen"
+    }
+]
